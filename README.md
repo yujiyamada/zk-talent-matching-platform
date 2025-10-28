@@ -10,7 +10,7 @@ A decentralized job matching platform utilizing zero-knowledge proofs and Soulbo
 - **Soulbound Token (SBT) Credentials**: Tamper-proof, non-transferable skill certificates
 - **Anonymous Job Matching**: Match candidates with employers based on verified skills, not identity
 - **Community-Driven Approval**: Decentralized skill verification through human approvers
-- **DAO Governance**: Community voting on platform rules and policies
+- **Community Governance**: Community voting on platform rules and policies
 
 ### User Roles
 
@@ -38,7 +38,7 @@ A decentralized job matching platform utilizing zero-knowledge proofs and Soulbo
 - Score applications based on multiple criteria
 - Issue Soulbound Tokens for verified skills
 
-#### 4. **DAO Member (Governance)**
+#### 4. **Community Member (Governance)**
 - Dashboard with governance statistics and activity
 - Proposal listing with voting progress
 - Create new governance proposals
@@ -381,15 +381,15 @@ Each role has its own **sidebar navigation** with quick access to all features w
 
 ---
 
-## DAO Pages (4 pages)
+## Community Pages (4 pages)
 
-### 16. DAO Dashboard (`/dao/dashboard`)
+### 16. Community Dashboard (`/dao/dashboard`)
 **Purpose**: Overview of governance activity
 
 **Features**:
 - Statistics: Active Proposals, Total Members, Your Votes, Participation Rate
 - Active proposals with voting progress
-- Recent DAO activity
+- Recent Community activity
 - Quick action buttons
 
 **Key Elements**:
@@ -527,7 +527,7 @@ For production implementation, you would need:
 - **Candidate**: 5 pages
 - **Company**: 4 pages + 2 detail pages (job detail, chat)
 - **Approver**: 3 pages + 1 detail page (review)
-- **DAO**: 4 pages + 1 detail page (proposal detail)
+- **Community**: 4 pages + 1 detail page (proposal detail)
 - **Landing**: 1 page
 
 ## 📄 License
