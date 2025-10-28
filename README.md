@@ -48,7 +48,7 @@ A decentralized job matching platform utilizing zero-knowledge proofs and Soulbo
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 zk-job-platform/
 ├── app/
 │   ├── page.tsx                       # Landing page
@@ -89,7 +89,7 @@ zk-job-platform/
 │   ├── tag-input.tsx                  # Skill tag input component
 │   └── ui/                            # shadcn/ui components
 └── README.md                          # This file
-\`\`\`
+```
 
 ## 🎨 Screenshots
 ![img.png](img.png)
